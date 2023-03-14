@@ -20,7 +20,7 @@ public class Main {
     }
 
     static boolean getGeom(int a, int b, int r) {
-        double d = Math.sqrt(Math.pow(a, 2) + Math.pow(b, 2));
-        return r > d;
+        double d = Math.sqrt(Math.pow(a, 2) + Math.pow(b, 2)); // рассчет диагонали прямоугольника
+        return r >= d;
     }
 }
