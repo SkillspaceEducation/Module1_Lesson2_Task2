@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04ea6ec9-61dd-45ef-b839-0c33e628ba4d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="04ea6ec9-61dd-45ef-b839-0c33e628ba4d" name="Changes" comment="Имеется прямоугольное отверстие размерами a и b, где a и b – целые числа.&#10;Определить, можно ли его полностью закрыть круглой картонкой радиусом r (тоже целое число).&#10;&#10;Изменено условие проверки" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +35,18 @@
       <option name="presentableId" value="Default" />
       <updated>1678702331478</updated>
     </task>
+    <task id="LOCAL-00001" summary="Имеется прямоугольное отверстие размерами a и b, где a и b – целые числа.&#10;Определить, можно ли его полностью закрыть круглой картонкой радиусом r (тоже целое число).&#10;&#10;Изменено условие проверки">
+      <created>1678823176889</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678823176889</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Имеется прямоугольное отверстие размерами a и b, где a и b – целые числа.&#10;Определить, можно ли его полностью закрыть круглой картонкой радиусом r (тоже целое число).&#10;&#10;Изменено условие проверки" />
+    <option name="LAST_COMMIT_MESSAGE" value="Имеется прямоугольное отверстие размерами a и b, где a и b – целые числа.&#10;Определить, можно ли его полностью закрыть круглой картонкой радиусом r (тоже целое число).&#10;&#10;Изменено условие проверки" />
   </component>
 </project>

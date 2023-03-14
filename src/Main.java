@@ -12,6 +12,7 @@ public class Main {
         int rectangleB = scanner.nextInt();
         System.out.println("Введите длину радиуса окружности");
         int circleR = scanner.nextInt();
+        scanner.close();
         boolean result = getGeom(rectangleA, rectangleB, circleR);
         if (result) System.out.printf("Окружностью радиусом %d можно полностью закрыть прямоугольник со сторонами " +
                 "%d и %d", circleR, rectangleA, rectangleB);
